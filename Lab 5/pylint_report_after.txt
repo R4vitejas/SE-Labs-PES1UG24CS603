@@ -1,0 +1,9 @@
+************* Module tax_calculator
+tax_calculator.py:113:0: C0303: Trailing whitespace (trailing-whitespace)
+tax_calculator.py:117:0: C0303: Trailing whitespace (trailing-whitespace)
+tax_calculator.py:124:0: C0304: Final newline missing (missing-final-newline)
+tax_calculator.py:16:0: R0911: Too many return statements (7/6) (too-many-return-statements)
+
+------------------------------------------------------------------
+Your code has been rated at 9.54/10 (previous run: 4.57/10, +4.98)
+
